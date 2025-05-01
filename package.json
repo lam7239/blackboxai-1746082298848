@@ -1,0 +1,13 @@
+{
+  "name": "dental-labo-management",
+  "version": "1.0.0",
+  "description": "Desktop app for dental laboratory order management",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^25.3.1"
+  }
+}
